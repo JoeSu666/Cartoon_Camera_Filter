@@ -1,7 +1,7 @@
 # Cartoon_Camera_Filter
-Cartoon stylization on landscape picture with pure image processing method
+Cartoon stylization on landscape picture with pure image processing method. This is my final project of RPI's ECSE-4540 (introduced by Dr. Richard Radke). You can find out the theoritical details of the project in the final_report file.
 
-cartoon_filter is the code of my project.
+cartoon_filter.py is the code of my project.
 I have put some demo source image in demo_image folder for testing. If you want to test your own photo, please put it
 that folder and named it with number.
 
