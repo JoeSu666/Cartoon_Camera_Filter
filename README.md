@@ -24,6 +24,4 @@ numpy
 scipy
 skimage
 
-Thanks
-
-Ziyu
+Peace
